@@ -33,6 +33,5 @@
 ---
 
 ## 📫 Contact
-- Email: 네이메일@example.com
-- Blog: 블로그주소
-- GitHub: https://github.com/네아이디
+- Email: ksi00070611@gmail.com
+- GitHub: https://github.com/ksi076
