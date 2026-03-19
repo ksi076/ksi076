@@ -3,13 +3,6 @@
 
 ---
 
-## 🙋 About Me ✨
-
-| 기간 | 활동/경력 | 주요 업무 |
-|------|----------|----------|
-| 2025.12 ~ 2026.07 | Intel Edge AI SW 아카데미 | 임베디드 소프트웨어 교육 |
-| 2019.03 ~ 2026.02 | 한국공학대학교 | 메카트로닉스 공학 전공/컴퓨터공학 복수전공 졸업 |
----
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
