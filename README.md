@@ -14,7 +14,7 @@
 
 ## 📌 Projects
 
-### 1. 스마트 도로 교통 관리 시스템(https://github.com/ksi076/smart_road_management_system)
+### 1. [스마트 도로 교통 관리 시스템](https://github.com/ksi076/smart_road_management_system)
 - YOLO와 OpenCV를 활용해 도로상황을 분석하는 시스템
 - Raspberry Pi 환경에서 실시간 감지 및 이벤트 저장 구현
 
