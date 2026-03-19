@@ -20,16 +20,6 @@
 - [프로젝트 보기](https://github.com/네아이디/저장소명)
 
 
-
----
-
-## 📷 Portfolio Highlights
-- YOLO 기반 객체 탐지
-- OpenCV 영상처리
-- Raspberry Pi 임베디드 제어
-- SQLite 기반 이벤트 로그 관리
-- 실시간 시스템 디버깅 및 최적화
-
 ---
 
 ## 📫 Contact
