@@ -1,23 +1,21 @@
 # 안녕하세요 👋
-### 임베디드 · AI · 컴퓨터비전 프로젝트를 만드는 학생 개발자입니다.
+### 임베디드SW개발.
 
 ---
 
-## 🙋 About Me
-- 한국공학대학교 메카트로닉스공학과 / 컴퓨터공학 복수전공
-- Raspberry Pi, OpenCV, YOLO 기반 프로젝트 진행
-- 임베디드 SW / AI 비전 / 자동화 시스템에 관심이 많습니다.
+## 🙋 About Me ✨
 
+| 기간 | 활동/경력 | 주요 업무 |
+|------|----------|----------|
+| 2025.04 ~ | Embedded Developer | Firmware & Middleware 개발 |
+| 2024.07 ~ 2025.02 | Intel Edge AI SW 아카데미 | 임베디드 소프트웨어 교육 |
+| 2019.03 ~ 2025.02 | 수원대학교 | 컴퓨터SW 졸업 |
 ---
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
