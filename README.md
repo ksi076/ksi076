@@ -18,7 +18,7 @@
 - YOLO와 OpenCV를 활용해 도로상황을 분석하는 시스템
 - Raspberry Pi5 환경에서 아두이노 제어 ,디스플레이 제어, 실시간 감지 및 이벤트 저장 구현
 
-### 2. [PLC 기반 소재 판별형 자동 입출고 시스템](https://github.com/ksi076/Q_PLC_base_project)
+### 2. [QPLC 기반 소재 판별형 자동 입출고 시스템](https://github.com/ksi076/Q_PLC_base_project)
 - QPLC 기반 금속·비금속 소재 판별 및 적재 자동화 시스템 구현
 - 선입선출 구조 기반으로 구현
 
