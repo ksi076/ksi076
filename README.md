@@ -22,6 +22,10 @@
 - OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
 - Raspberry Pi4B 환경에서 로지텍웹캠 및 RC927DMG 서보모터 제어
 
+### 3. [PLC 기반 소재 판별형 자동 입출고 시스템](https://github.com/ksi076/smart_sorting_conveyor)
+- OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
+- Raspberry Pi4B 환경에서 로지텍웹캠 및 RC927DMG 서보모터 제어
+
 
 ---
 
