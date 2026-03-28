@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:232526,100:414345&height=180&section=header&%20GitHub&fontSize=45&fontColor=ffffff" />
-</div>>
+</div>
 
 ---
 
