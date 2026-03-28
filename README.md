@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1ec8c8&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
+    
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
