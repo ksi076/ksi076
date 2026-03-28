@@ -1,5 +1,7 @@
-<div class="header"> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Kimseil GitHub">>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    
 
 
 ## 🛠 Tech Stack
