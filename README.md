@@ -1,7 +1,6 @@
-<div class="header">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F5C0CA&text=KimSeIl's%20GitHub&height=150&fontSize=60&fontColor=ffffff" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFDEE9,100:B5FFFC&height=200&section=header&text=KimSeIl's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </div>
-
 ---
 
 
