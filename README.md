@@ -22,8 +22,8 @@
 - 선입선출 구조 기반으로 구현
 
 ### 3. ⚙️[SafeOffice](https://github.com/qkrrkdtj/safe-office)
-- OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
-- Raspberry Pi4B 환경에서 로지텍웹캠C920 및 RC927DMG 서보모터 제어
+- ESP8266, STM32F4,Raspberry Pi5 그리고 YOLOv8 객체 감지를 활용한 자동화된 사무실 환경 모니터링 및 제어 시스템
+- 다양한 센서 및 모터를 사용하여 보안 및 비상상황에 대비
 
 ### 4. ⚙️[스마트 분류 컨베이어](https://github.com/ksi076/smart_sorting_conveyor)
 - OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
