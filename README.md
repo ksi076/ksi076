@@ -21,7 +21,7 @@
 - QPLC 기반 금속·비금속 소재 판별 및 적재 자동화 시스템 구현
 - 선입선출 구조 기반으로 구현
 
-### 3. ⚙️[SafeOffice](https://github.com/ksi076/smart_sorting_conveyor)
+### 3. ⚙️[SafeOffice](https://github.com/qkrrkdtj/safe-office)
 - OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
 - Raspberry Pi4B 환경에서 로지텍웹캠C920 및 RC927DMG 서보모터 제어
 
