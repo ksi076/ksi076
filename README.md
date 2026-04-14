@@ -21,7 +21,7 @@
 - QPLC 기반 금속·비금속 소재 판별 및 적재 자동화 시스템 구현
 - 선입선출 구조 기반으로 구현
 
-### 3. ⚙️[SafeOffice](https://github.com/qkrrkdtj/safe-office)
+### 3. 🛡️🏢[SafeOffice](https://github.com/qkrrkdtj/safe-office)
 - ESP8266, STM32F4,Raspberry Pi5 그리고 YOLOv8 객체 감지를 활용한 자동화된 사무실 환경 모니터링 및 제어 시스템
 - 다양한 센서 및 모터를 사용하여 보안 및 비상상황에 대비
 
