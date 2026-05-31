@@ -17,13 +17,17 @@
 - YOLO와 OpenCV를 활용해 도로상황을 분석하는 시스템
 - Raspberry Pi5 환경에서 아두이노 제어 ,디스플레이 제어, 실시간 감지 및 이벤트 저장 구현
 
-### 2. 📦🔄[QPLC 기반 소재 판별형 자동 입출고 시스템](https://github.com/ksi076/Q_PLC_base_project)
+
+### 2. 🛡️🏢[SafeOffice](https://github.com/qkrrkdtj/safe-office)
+- ESP8266, STM32F4,Raspberry Pi5 그리고 YOLOv8 객체 감지를 활용한 자동화된 사무실 환경 모니터링 및 제어 시스템
+- 다양한 센서 및 모터를 사용하여 보안 및 비상상황에 대비
+
+
+### 3. 📦🔄[QPLC 기반 소재 판별형 자동 입출고 시스템](https://github.com/ksi076/Q_PLC_base_project)
 - QPLC 기반 금속·비금속 소재 판별 및 적재 자동화 시스템 구현
 - 선입선출 구조 기반으로 구현
 
-### 3. 🛡️🏢[SafeOffice](https://github.com/qkrrkdtj/safe-office)
-- ESP8266, STM32F4,Raspberry Pi5 그리고 YOLOv8 객체 감지를 활용한 자동화된 사무실 환경 모니터링 및 제어 시스템
-- 다양한 센서 및 모터를 사용하여 보안 및 비상상황에 대비
+
 
 ### 4. ⚙️[스마트 분류 컨베이어](https://github.com/ksi076/smart_sorting_conveyor)
 - OpenCV를 활용해 택배상자 위의 QR코드정보를 받아와 지역에 따라 분류해주는 시스템
