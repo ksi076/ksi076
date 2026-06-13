@@ -39,5 +39,5 @@
 ---
 
 ## 📫 Contact
-- Email: ksi00070611@gmail.com
+- Email: ksi076@naver.com
 - GitHub: https://github.com/ksi076
